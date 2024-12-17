@@ -7,3 +7,4 @@ on:
   push:
     branches:
       - main
+contents: write
